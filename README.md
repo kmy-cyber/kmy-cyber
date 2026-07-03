@@ -6,21 +6,20 @@
 
 <p align="center">
   <a href="mailto:kmy10111.cs@gmail.com">Email</a> •
-  <a href="https://github.com/kmy-cyber">GitHub</a> •
-  <a href="https://github.com/kmy-cyber/DermFusion">DermFusion Thesis Project</a>
+  <a href="https://github.com/kmy-cyber">GitHub</a>
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science graduate from the University of Havana with interests in artificial intelligence, computer vision, medical image analysis, distributed systems, and frontend development.
+I am a Computer Science graduate from the University of Havana with experience in frontend development, artificial intelligence, computer vision, medical image analysis, distributed systems, and research-oriented software development.
 
-My academic and technical work combines software engineering, machine learning, data processing, and research-oriented experimentation. I enjoy building systems that are not only functional, but also reproducible, well-structured, and technically explainable.
+My work combines software engineering, machine learning, data processing, experimental evaluation, and technical documentation. I enjoy building systems that are functional, reproducible, well-structured, and technically explainable.
 
 ---
 
-## Main Areas of Interest
+## Main Interests
 
 - Artificial Intelligence and Machine Learning
 - Computer Vision and Medical Image Analysis
@@ -28,13 +27,13 @@ My academic and technical work combines software engineering, machine learning, 
 - Frontend Development with Angular and React
 - Distributed Systems
 - Data Processing and Experimental Evaluation
-- Scientific Documentation and LaTeX
+- Scientific Writing and LaTeX
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -64,53 +63,29 @@ My academic and technical work combines software engineering, machine learning, 
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### DermFusion — Multimodal Skin Lesion Classification
 
-Research project focused on automatic skin lesion classification using a lesion-centered multimodal pipeline.
+Research project focused on automatic skin lesion classification using medical computer vision and multimodal learning.
 
-Main technical areas:
-
-- Medical computer vision
-- Dermoscopic image analysis
-- Lesion segmentation
-- Vision Transformer embeddings
-- Clinical metadata encoding
-- Multimodal feature fusion
-- Supervised classification
-- Experimental evaluation under class imbalance
-
-Repository: [DermFusion](https://github.com/kmy-cyber/DermFusion)
+**Main areas:** computer vision, medical image analysis, lesion segmentation, Vision Transformers, clinical metadata, multimodal fusion, supervised classification, experimental evaluation, and class imbalance.
 
 ---
 
 ### Distributed Collaborative Agenda
 
-Distributed system built with Python, FastAPI and Docker, focused on consistency, replication and fault-tolerant coordination.
+Distributed system built with Python, FastAPI and Docker, focused on consistency, replication and coordination.
 
-Main technical areas:
-
-- RAFT-based replication
-- Leader election
-- Log replication
-- Sharding
-- WebSocket communication
-- Distributed coordination
+**Main areas:** RAFT, leader election, log replication, sharding, WebSockets, distributed systems.
 
 ---
 
 ### Tourism Recommendation System
 
-AI-based recommendation system designed to generate travel suggestions and itineraries using multiple intelligent components.
+AI-based recommendation system for travel planning and itinerary generation.
 
-Main technical areas:
-
-- Multi-agent systems
-- Retrieval-Augmented Generation
-- Genetic algorithms
-- Web data processing
-- Personalized recommendation
+**Main areas:** multi-agent systems, retrieval-augmented generation, genetic algorithms, data processing, recommendation systems.
 
 ---
 
@@ -118,26 +93,7 @@ Main technical areas:
 
 Interpreter for a functional and strongly typed programming language.
 
-Main technical areas:
-
-- Lexical analysis
-- Recursive descent parsing
-- Abstract Syntax Trees
-- Semantic analysis
-- Symbol tables
-- Functional programming concepts
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmy-cyber&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmy-cyber&layout=compact&hide_border=true" />
-</p>
+**Main areas:** lexical analysis, parsing, AST, semantic analysis, symbol tables, functional programming.
 
 ---
 
@@ -145,7 +101,7 @@ Main technical areas:
 
 - Advanced machine learning workflows
 - Computer vision model evaluation
-- Angular architecture and frontend scalability
+- Angular architecture and scalable frontend design
 - Technical writing in English
 - Research-oriented software documentation
 
@@ -153,20 +109,5 @@ Main technical areas:
 
 ## Contact
 
-📧 Email: kmy10111.cs@gmail.com  
-💻 GitHub: [github.com/kmy-cyber](https://github.com/kmy-cyber)## Hi there 👋
-
-<!--
-**kmy-cyber/kmy-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** kmy10111.cs@gmail.com  
+💻 **GitHub:** [github.com/kmy-cyber](https://github.com/kmy-cyber)
