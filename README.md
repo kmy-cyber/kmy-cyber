@@ -1,8 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2CBF&height=180&section=header&text=Arianne%20Camila&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+
 <h1 align="center">Hi, I'm Arianne Camila 👩‍💻</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=23&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Science+Graduate;AI+%26+Computer+Vision;Medical+Image+Analysis;Frontend+Developer;Research-Oriented+Software+Development" 
+    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate;AI+%26+Computer+Vision;Medical+Image+Analysis;Frontend+Developer;Multimodal+Learning;Research-Oriented+Software+Development" 
     alt="Typing SVG" 
   />
 </p>
@@ -16,7 +18,15 @@
   <a href="https://github.com/kmy-cyber">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kmy-cyber&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
+</p>
 
 ## About Me
 
@@ -76,6 +86,10 @@ My work combines software engineering, machine learning, data processing, experi
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd1ef-5871-45b4-ae09-33f86b0a35bd.gif" width="100%" alt="Animated line" />
+</p>
 
 ## Featured Work
 
@@ -144,16 +158,31 @@ Frontend development experience building interfaces and modules for web platform
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kmy-cyber&show_icons=true&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kmy-cyber&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" 
     alt="Arianne's GitHub stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmy-cyber&layout=compact&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmy-cyber&layout=compact&hide_border=true&theme=tokyonight" 
     alt="Top Languages" 
   />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kmy-cyber&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kmy-cyber/kmy-cyber/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -168,3 +197,5 @@ Frontend development experience building interfaces and modules for web platform
 <p align="center">
   <i>“Code, research, and documentation are stronger when they are clear, reproducible, and useful.”</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:36BCF7&height=120&section=footer" />
