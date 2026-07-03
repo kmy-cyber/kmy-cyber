@@ -1,10 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2CBF&height=180&section=header&text=Arianne%20Camila&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2CBF&height=160&section=header&text=Arianne%20Camila&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" 
+  width="100%" 
+/>
 
 <h1 align="center">Hi, I'm Arianne Camila 👩‍💻</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate;AI+%26+Computer+Vision;Medical+Image+Analysis;Frontend+Developer;Multimodal+Learning;Research-Oriented+Software+Development" 
+    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;AI+%26+Computer+Vision;Medical+Image+Analysis;Frontend+Developer;Multimodal+Learning;Research-Oriented+Software+Development" 
     alt="Typing SVG" 
   />
 </p>
@@ -19,14 +22,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmy-cyber&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=kmy-cyber&label=Profile%20views&color=36BCF7&style=flat" 
+    alt="Profile views" 
+  />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd1ef-5871-45b4-ae09-33f86b0a35bd.gif" width="100%" alt="Animated divider" />
-</p>
 
 ## About Me
 
@@ -52,43 +54,54 @@ My work combines software engineering, machine learning, data processing, experi
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+</p>
 
 ### Frontend Development
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
 ### AI, Data and Research
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat" />
+</p>
 
 ### Tools and Frameworks
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd1ef-5871-45b4-ae09-33f86b0a35bd.gif" width="100%" alt="Animated line" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:7B2CBF&height=2" 
+    width="650" 
+  />
 </p>
 
 ## Featured Work
@@ -154,39 +167,6 @@ Frontend development experience building interfaces and modules for web platform
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kmy-cyber&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" 
-    alt="Arianne's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmy-cyber&layout=compact&hide_border=true&theme=tokyonight" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kmy-cyber&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kmy-cyber/kmy-cyber/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
 ## Contact
 
 📧 **Email:** kmy10111.cs@gmail.com  
@@ -198,4 +178,7 @@ Frontend development experience building interfaces and modules for web platform
   <i>“Code, research, and documentation are stronger when they are clear, reproducible, and useful.”</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:36BCF7&height=120&section=footer" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:36BCF7&height=110&section=footer" 
+  width="100%" 
+/>
