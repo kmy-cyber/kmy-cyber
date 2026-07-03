@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd1ef-5871-45b4-ae09-33f86b0a35bd.gif" width="100%" alt="Animated divider" />
 </p>
 
 ## About Me
